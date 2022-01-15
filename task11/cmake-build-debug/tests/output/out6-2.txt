@@ -1,0 +1,22 @@
+Container contains 20 elements.
+0: It is Plane: Range = 3000, lifting capacity = 600. Perfect time = 5
+1: It is Train: Amount of wagons = 60. Perfect time = 4
+2: It is Plane: Range = 8000, lifting capacity = 1200. Perfect time = 2.5
+3: It is Plane: Range = 3000, lifting capacity = 600. Perfect time = 5
+4: It is Train: Amount of wagons = 60. Perfect time = 4
+5: It is Plane: Range = 8000, lifting capacity = 1200. Perfect time = 2.5
+6: It is Plane: Range = 3000, lifting capacity = 600. Perfect time = 5
+7: It is Train: Amount of wagons = 60. Perfect time = 4
+8: It is Plane: Range = 8000, lifting capacity = 1200. Perfect time = 2.5
+9: It is Plane: Range = 3000, lifting capacity = 600. Perfect time = 5
+10: It is Train: Amount of wagons = 60. Perfect time = 4
+11: It is Plane: Range = 8000, lifting capacity = 1200. Perfect time = 2.5
+12: It is Ship: Displacement = 150. Ship type: TUGBOAT. Perfect time = 8.75
+13: It is Ship: Displacement = 900. Ship type: TANKER. Perfect time = 14.5833
+14: It is Ship: Displacement = 150. Ship type: TUGBOAT. Perfect time = 8.75
+15: It is Ship: Displacement = 900. Ship type: TANKER. Perfect time = 14.5833
+16: It is Ship: Displacement = 150. Ship type: TUGBOAT. Perfect time = 8.75
+17: It is Ship: Displacement = 900. Ship type: TANKER. Perfect time = 14.5833
+18: It is Ship: Displacement = 150. Ship type: TUGBOAT. Perfect time = 8.75
+19: It is Ship: Displacement = 900. Ship type: TANKER. Perfect time = 14.5833
+6.96667

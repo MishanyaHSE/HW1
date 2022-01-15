@@ -1,0 +1,5 @@
+Container contains 3 elements.
+0: It is Plane: Range = 3000, lifting capacity = 600. Perfect time = 5
+1: It is Train: Amount of wagons = 60. Perfect time = 4
+2: It is Ship: Displacement = 150. Ship type: TUGBOAT. Perfect time = 8.75
+5.91667
